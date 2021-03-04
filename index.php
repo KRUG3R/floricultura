@@ -2,7 +2,7 @@
 <head>
 <title> Floricultura </title>
 </head>
-<body>
+<body style="background: #cc99ff;">
     <h1> Floricultura</h1>
     <table style="width:100%">
     <tr>
